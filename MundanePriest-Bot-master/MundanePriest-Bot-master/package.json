@@ -1,0 +1,30 @@
+{
+  "name": "rotmg_ppe",
+  "version": "2.2.4",
+  "description": "ROTMG PPE Server Management Bot",
+  "main": "main.js",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "github:discordjs/discord.js",
+    "sequelize": "^5.8.6",
+    "sqlite3": "^4.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriusC/FFXIV-Bot.git"
+  },
+  "keywords": [
+    ""
+  ],
+  "author": "Lanis#9084",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriusC/FFXIV-Bot/issues"
+  },
+  "homepage": "https://github.com/AndriusC/FFXIV-Bot#readme"
+}
